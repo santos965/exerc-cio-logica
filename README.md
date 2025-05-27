@@ -1,0 +1,2 @@
+# exerc-cio-logica
+logica 
